@@ -2,8 +2,7 @@
 
 The following principles define my key objectives and approaches when building software. I try to keep these at the forefront of any work I do and promote them wherever I go.
 
-In reality there are many more patterns that I following when building software, but these capture the characteristics of the solutions I want to produce.
-
+In practice there are many standards, patterns and processes that I use and follow when building software, these simply capture the characteristics of the solutions I want to produce.
 
 ## Keep it simple.
 
