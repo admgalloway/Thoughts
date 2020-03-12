@@ -18,7 +18,7 @@ Writing maintainable code should be a top priority, so take time to refine your 
 
 ## Consistency is key.
 
-#### And collaboration is key to consistency.
+#### And collaboration is the key to consistency.
 
 Consistency is critical when it comes to maintaining software systems. A modern development team will change and grow quickly and it's important everyone contributes work that others can support.
 
